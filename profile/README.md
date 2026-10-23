@@ -38,4 +38,3 @@ A fund on Alora holds a basket of tokenized assets, issues a share token, and se
 ## Links
 
 - 🌐 Website: [aloraprotocol.xyz](https://aloraprotocol.xyz)
-- 📚 Documentation: [docs.aloraprotocol.xyz](https://docs.aloraprotocol.xyz)
